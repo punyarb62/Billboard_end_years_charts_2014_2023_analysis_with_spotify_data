@@ -1,0 +1,1001 @@
+Year|Rank|Song Title|Artist
+2014|1|Happy|Pharrell Williams
+2014|2|Dark Horse|Katy Perry Featuring Juicy J
+2014|3|All Of Me|John Legend
+2014|4|Fancy|Iggy Azalea Featuring Charli XCX
+2014|5|Counting Stars|OneRepublic
+2014|6|Talk Dirty|Jason Derulo Featuring 2 Chainz
+2014|7|Rude|MAGIC!
+2014|8|All About That Bass|Meghan Trainor
+2014|9|Problem|Ariana Grande Featuring Iggy Azalea
+2014|10|Stay With Me|Sam Smith
+2014|11|Timber|Pitbull Featuring Ke$ha
+2014|12|Pompeii|Bastille
+2014|13|Shake It Off|Taylor Swift
+2014|14|Am I Wrong|Nico & Vinz
+2014|15|Turn Down For What|DJ Snake & Lil Jon
+2014|16|The Monster|Eminem Featuring Rihanna
+2014|17|Say Something|A Great Big World & Christina Aguilera
+2014|18|Team|Lorde
+2014|19|Let Her Go|Passenger
+2014|20|Royals|Lorde
+2014|21|Let It Go|Idina Menzel
+2014|22|Wake Me Up!|Avicii
+2014|23|Demons|Imagine Dragons
+2014|24|Story Of My Life|One Direction
+2014|25|Chandelier|Sia
+2014|26|Black Widow|Iggy Azalea Featuring Rita Ora
+2014|27|Bang Bang|Jessie J, Ariana Grande & Nicki Minaj
+2014|28|Latch|Disclosure Featuring Sam Smith
+2014|29|Maps|Maroon 5
+2014|30|Loyal|Chris Brown Featuring Lil Wayne & French Montana Or Too $hort Or Tyga
+2014|31|Best Day Of My Life|American Authors
+2014|32|Habits (Stay High)|Tove Lo
+2014|33|Summer|Calvin Harris
+2014|34|Boom Clap|Charli xcx
+2014|35|Drunk In Love|Beyonce Featuring Jay Z
+2014|36|Anaconda|Nicki Minaj
+2014|37|Break Free|Ariana Grande Featuring Zedd
+2014|38|Bailando|Enrique Iglesias Featuring Descemer Bueno & Gente de Zona
+2014|39|Burn|Ellie Goulding
+2014|40|Wiggle|Jason Derulo Featuring Snoop Dogg
+2014|41|Rather Be|Clean Bandit Featuring Jess Glynne
+2014|42|Don't Tell 'Em|Jeremih Featuring YG
+2014|43|Show Me|Kid Ink Featuring Chris Brown
+2014|44|Wrecking Ball|Miley Cyrus
+2014|45|Not A Bad Thing|Justin Timberlake
+2014|46|Roar|Katy Perry
+2014|47|Ain't It Fun|Paramore
+2014|48|The Man|Aloe Blacc
+2014|49|This Is How We Roll|Florida Georgia Line Featuring Luke Bryan
+2014|50|Classic|MKTO
+2014|51|A Sky Full Of Stars|Coldplay
+2014|52|Don't|Ed Sheeran
+2014|53|Na Na|Trey Songz
+2014|54|Hot Boy|Bobby Shmurda
+2014|55|Hold On, We're Going Home|Drake Featuring Majid Jordan
+2014|56|Sing|Ed Sheeran
+2014|57|Radioactive|Imagine Dragons
+2014|58|My Hitta|YG Featuring Jeezy & Rich Homie Quan
+2014|59|Cool Kids|Echosmith
+2014|60|Hey Brother|Avicii
+2014|61|Trumpets|Jason Derulo
+2014|62|Animals|Maroon 5
+2014|63|Burnin' It Down|Jason Aldean
+2014|64|Play It Again|Luke Bryan
+2014|65|2 On|Tinashe Featuring ScHoolboy Q
+2014|66|Dirt|Florida Georgia Line
+2014|67|Love Runs Out|OneRepublic
+2014|68|Bottoms Up|Brantley Gilbert
+2014|69|Shower|Becky G
+2014|70|Me And My Broken Heart|Rixton
+2014|71|Animals|Martin Garrix
+2014|72|Lifestyle|Rich Gang Featuring Young Thug & Rich Homie Quan
+2014|73|American Kids|Kenny Chesney
+2014|74|Brave|Sara Bareilles
+2014|75|Sweater Weather|The Neighbourhood
+2014|76|Leave The Night On|Sam Hunt
+2014|77|New Flame|Chris Brown Featuring Usher & Rick Ross
+2014|78|Love Never Felt So Good|Michael Jackson & Justin Timberlake
+2014|79|Drunk On A Plane|Dierks Bentley
+2014|80|Birthday|Katy Perry
+2014|81|Bartender|Lady Antebellum
+2014|82|La La La|Naughty Boy Featuring Sam Smith
+2014|83|Blurred Lines|Robin Thicke Featuring T.I. + Pharrell
+2014|84|Do What U Want|Lady Gaga Featuring R. Kelly
+2014|85|Can't Remember To Forget You|Shakira Featuring Rihanna
+2014|86|Amnesia|5 Seconds Of Summer
+2014|87|No Mediocre|T.I. Featuring Iggy Azalea
+2014|88|Come With Me Now|KONGOS
+2014|89|Believe Me|Lil Wayne Featuring Drake
+2014|90|23|Mike WiLL Made-It Featuring Miley Cyrus, Wiz Khalifa & Juicy J
+2014|91|Beachin'|Jake Owen
+2014|92|White Walls|Macklemore & Ryan Lewis Featuring ScHoolboy Q & Hollis
+2014|93|She Looks So Perfect|5 Seconds Of Summer
+2014|94|Stay The Night|Zedd Featuring Hayley Williams
+2014|95|Partition|Beyonce
+2014|96|Studio|ScHoolboy Q Featuring BJ The Chicago Kid
+2014|97|0 To 100 / The Catch Up|Drake
+2014|98|I Don't Dance|Lee Brice
+2014|99|Somethin' Bad|Miranda Lambert Duet With Carrie Underwood
+2014|100|Adore You|Miley Cyrus
+2015|1|Uptown Funk!|Mark Ronson Featuring Bruno Mars
+2015|2|Thinking Out Loud|Ed Sheeran
+2015|3|See You Again|Wiz Khalifa Featuring Charlie Puth
+2015|4|Trap Queen|Fetty Wap
+2015|5|Sugar|Maroon 5
+2015|6|Shut Up And Dance|WALK THE MOON
+2015|7|Blank Space|Taylor Swift
+2015|8|Watch Me|Silento
+2015|9|Earned It (Fifty Shades Of Grey)|The Weeknd
+2015|10|The Hills|The Weeknd
+2015|11|Cheerleader|OMI
+2015|12|Can't Feel My Face|The Weeknd
+2015|13|Love Me Like You Do|Ellie Goulding
+2015|14|Take Me To Church|Hozier
+2015|15|Bad Blood|Taylor Swift Featuring Kendrick Lamar
+2015|16|Lean On|Major Lazer X DJ Snake Featuring MO
+2015|17|Want To Want Me|Jason Derulo
+2015|18|Shake It Off|Taylor Swift
+2015|19|Where Are U Now|Skrillex & Diplo With Justin Bieber
+2015|20|Fight Song|Rachel Platten
+2015|21|679|Fetty Wap Featuring Remy Boyz
+2015|22|Lips Are Movin|Meghan Trainor
+2015|23|Worth It|Fifth Harmony Featuring Kid Ink
+2015|24|Post To Be|Omarion Featuring Chris Brown & Jhene Aiko
+2015|25|Honey, I'm Good.|Andy Grammer
+2015|26|I'm Not The Only One|Sam Smith
+2015|27|Good For You|Selena Gomez Featuring A$AP Rocky
+2015|28|All About That Bass|Meghan Trainor
+2015|29|Style|Taylor Swift
+2015|30|Hotline Bling|Drake
+2015|31|Hey Mama|David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack
+2015|32|G.D.F.R.|Flo Rida Featuring Sage The Gemini & Lookas
+2015|33|What Do You Mean?|Justin Bieber
+2015|34|Photograph|Ed Sheeran
+2015|35|Hello|Adele
+2015|36|Stitches|Shawn Mendes
+2015|37|Talking Body|Tove Lo
+2015|38|Jealous|Nick Jonas
+2015|39|Time Of Our Lives|Pitbull & Ne-Yo
+2015|40|Locked Away|R. City Featuring Adam Levine
+2015|41|Somebody|Natalie La Rose Featuring Jeremih
+2015|42|FourFiveSeconds|Rihanna & Kanye West & Paul McCartney
+2015|43|Centuries|Fall Out Boy
+2015|44|My Way|Fetty Wap Featuring Monty
+2015|45|Take Your Time|Sam Hunt
+2015|46|Animals|Maroon 5
+2015|47|I Don't F**k With You|Big Sean Featuring E-40
+2015|48|B**** Better Have My Money|Rihanna
+2015|49|Flex (Ooh Ooh Ooh)|Rich Homie Quan
+2015|50|Nasty Freestyle|T-Wayne
+2015|51|Only|Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown
+2015|52|Elastic Heart|Sia
+2015|53|Cool For The Summer|Demi Lovato
+2015|54|Renegades|X Ambassadors
+2015|55|I Don't Mind|Usher Featuring Juicy J
+2015|56|Love Me Harder|Ariana Grande & The Weeknd
+2015|57|Wildest Dreams|Taylor Swift
+2015|58|Stay With Me|Sam Smith
+2015|59|You Know You Like It|DJ Snake & AlunaGeorge
+2015|60|Uma Thurman|Fall Out Boy
+2015|61|7/11|Beyonce
+2015|62|The Heart Wants What It Wants|Selena Gomez
+2015|63|Girl Crush|Little Big Town
+2015|64|Slow Motion|Trey Songz
+2015|65|Drag Me Down|One Direction
+2015|66|Truffle Butter|Nicki Minaj Featuring Drake & Lil Wayne
+2015|67|One Last Time|Ariana Grande
+2015|68|Chains|Nick Jonas
+2015|69|All Eyes On You|Meek Mill Featuring Chris Brown & Nicki Minaj
+2015|70|No Type|Rae Sremmurd
+2015|71|Riptide|Vance Joy
+2015|72|Classic Man|Jidenna Featuring Roman GianArthur
+2015|73|Ex's & Oh's|Elle King
+2015|74|Dear Future Husband|Meghan Trainor
+2015|75|Marvin Gaye|Charlie Puth Featuring Meghan Trainor
+2015|76|Like I'm Gonna Lose You|Meghan Trainor Featuring John Legend
+2015|77|Habits (Stay High)|Tove Lo
+2015|78|The Hanging Tree|James Newton Howard Featuring Jennifer Lawrence
+2015|79|CoCo|O.T. Genasis
+2015|80|Bang Bang|Jessie J, Ariana Grande & Nicki Minaj
+2015|81|Lay Me Down|Sam Smith
+2015|82|Tuesday|I LOVE MAKONNEN Featuring Drake
+2015|83|Hit The Quan|iLoveMemphis
+2015|84|Downtown|Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz
+2015|85|House Party|Sam Hunt
+2015|86|Ayo|Chris Brown & Tyga
+2015|87|Kick The Dust Up|Luke Bryan
+2015|88|Blessings|Big Sean Featuring Drake
+2015|89|Budapest|George Ezra
+2015|90|Chandelier|Sia
+2015|91|Heartbeat Song|Kelly Clarkson
+2015|92|Don't|Ed Sheeran
+2015|93|Ghost|Ella Henderson
+2015|94|Here|Alessia Cara
+2015|95|Waves|Mr. Probz
+2015|96|El Perdon (Forgiveness)|Nicky Jam & Enrique Iglesias
+2015|97|She Knows|Ne-Yo Featuring Juicy J
+2015|98|Night Changes|One Direction
+2015|99|Back To Back|Drake
+2015|100|How Deep Is Your Love|Calvin Harris & Disciples
+2016|1|Love Yourself|Justin Bieber
+2016|2|Sorry|Justin Bieber
+2016|3|One Dance|Drake Featuring WizKid & Kyla
+2016|4|Work|Rihanna Featuring Drake
+2016|5|Stressed Out|Twenty One Pilots
+2016|6|Panda|Desiigner
+2016|7|Hello|Adele
+2016|8|Don't Let Me Down|The Chainsmokers Featuring Daya
+2016|9|Can't Stop The Feeling!|Justin Timberlake
+2016|10|Closer|The Chainsmokers Featuring Halsey
+2016|11|Cheap Thrills|Sia Featuring Sean Paul
+2016|12|7 Years|Lukas Graham
+2016|13|Needed Me|Rihanna
+2016|14|My House|Flo Rida
+2016|15|I Took A Pill In Ibiza|Mike Posner
+2016|16|Work From Home|Fifth Harmony Featuring Ty Dolla $ign
+2016|17|This Is What You Came For|Calvin Harris Featuring Rihanna
+2016|18|Cake By The Ocean|DNCE
+2016|19|Me, Myself & I|G-Eazy x Bebe Rexha
+2016|20|Ride|Twenty One Pilots
+2016|21|Heathens|Twenty One Pilots
+2016|22|Pillowtalk|Zayn
+2016|23|Stitches|Shawn Mendes
+2016|24|Hotline Bling|Drake
+2016|25|Cold Water|Major Lazer Featuring Justin Bieber & MO
+2016|26|Send My Love (To Your New Lover)|Adele
+2016|27|Roses|The Chainsmokers Featuring Rozes
+2016|28|Treat You Better|Shawn Mendes
+2016|29|Too Good|Drake Featuring Rihanna
+2016|30|Low Life|Future Featuring The Weeknd
+2016|31|What Do You Mean?|Justin Bieber
+2016|32|The Hills|The Weeknd
+2016|33|Just Like Fire|P!nk
+2016|34|Broccoli|D.R.A.M. Featuring Lil Yachty
+2016|35|Don't|Bryson Tiller
+2016|36|Dangerous Woman|Ariana Grande
+2016|37|Jumpman|Drake & Future
+2016|38|I Hate U I Love U|gnash Featuring Olivia O'Brien
+2016|39|Here|Alessia Cara
+2016|40|Same Old Love|Selena Gomez
+2016|41|Controlla|Drake
+2016|42|Like I'm Gonna Lose You|Meghan Trainor Featuring John Legend
+2016|43|One Call Away|Charlie Puth
+2016|44|Let It Go|James Bay
+2016|45|No|Meghan Trainor
+2016|46|Never Forget You|Zara Larsson & MNEK
+2016|47|Let Me Love You|DJ Snake Featuring Justin Bieber
+2016|48|Don't Mind|Kent Jones
+2016|49|H.O.L.Y.|Florida Georgia Line
+2016|50|We Don't Talk Anymore|Charlie Puth Featuring Selena Gomez
+2016|51|Into You|Ariana Grande
+2016|52|Gold|Kiiara
+2016|53|Exchange|Bryson Tiller
+2016|54|679|Fetty Wap Featuring Remy Boyz
+2016|55|Oui|Jeremih
+2016|56|Hands To Myself|Selena Gomez
+2016|57|2 Phones|Kevin Gates
+2016|58|Starboy|The Weeknd Featuring Daft Punk
+2016|59|For Free|DJ Khaled Featuring Drake
+2016|60|Never Be Like You|Flume Featuring Kai
+2016|61|In The Night|The Weeknd
+2016|62|Me Too|Meghan Trainor
+2016|63|Ex's & Oh's|Elle King
+2016|64|Die A Happy Man|Thomas Rhett
+2016|65|White Iverson|Post Malone
+2016|66|Close|Nick Jonas Featuring Tove Lo
+2016|67|Unsteady|X Ambassadors
+2016|68|Sucker For Pain|Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors
+2016|69|Down In The DM|Yo Gotti Featuring Nicki Minaj
+2016|70|Luv|Tory Lanez
+2016|71|Sorry|Beyonce
+2016|72|Can't Feel My Face|The Weeknd
+2016|73|Hymn For The Weekend|Coldplay
+2016|74|Say It|Tory Lanez
+2016|75|Antidote|Travis Scott
+2016|76|Lost Boy|Ruth B
+2016|77|Side To Side|Ariana Grande Featuring Nicki Minaj
+2016|78|Sit Still, Look Pretty|Daya
+2016|79|Wildest Dreams|Taylor Swift
+2016|80|Middle|DJ Snake Featuring Bipolar Sunshine
+2016|81|On My Mind|Ellie Goulding
+2016|82|Pop Style|Drake Featuring The Throne
+2016|83|When We Were Young|Adele
+2016|84|Hide Away|Daya
+2016|85|Lean On|Major Lazer X DJ Snake Featuring MO
+2016|86|I Know What You Did Last Summer|Shawn Mendes & Camila Cabello
+2016|87|Watch Me|Silento
+2016|87|All the Way Up (featuring French Montana & Infared)|Fat Joe & Remy Ma
+2016|88|Back To Sleep|Chris Brown
+2016|89|No Limit|Usher Featuring Young Thug
+2016|90|Cut It|O.T. Genasis Featuring Young Dolph
+2016|91|Really Really|Kevin Gates
+2016|92|All In My Head (Flex)|Fifth Harmony Featuring Fetty Wap
+2016|93|Starving|Hailee Steinfeld & Grey Featuring Zedd
+2016|94|Adventure Of A Lifetime|Coldplay
+2016|95|Humble And Kind|Tim McGraw
+2016|96|Wicked|Future
+2016|97|Tiimmy Turner|Desiigner
+2016|98|See You Again|Wiz Khalifa Featuring Charlie Puth
+2016|99|Perfect|One Direction
+2017|1|Shape Of You|Ed Sheeran
+2017|2|Despacito|Luis Fonsi & Daddy Yankee Featuring Justin Bieber
+2017|3|That's What I Like|Bruno Mars
+2017|4|Humble.|Kendrick Lamar
+2017|5|Something Just Like This|The Chainsmokers & Coldplay
+2017|6|Bad And Boujee|Migos Featuring Lil Uzi Vert
+2017|7|Closer|The Chainsmokers Featuring Halsey
+2017|8|Body Like A Back Road|Sam Hunt
+2017|9|Believer|Imagine Dragons
+2017|10|Congratulations|Post Malone Featuring Quavo
+2017|11|Say You Won't Let Go|James Arthur
+2017|12|I'm The One|DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne
+2017|13|XO TOUR Llif3|Lil Uzi Vert
+2017|14|Mask Off|Future
+2017|15|Unforgettable|French Montana Featuring Swae Lee
+2017|16|24K Magic|Bruno Mars
+2017|17|Stay|Zedd & Alessia Cara
+2017|18|Wild Thoughts|DJ Khaled Featuring Rihanna & Bryson Tiller
+2017|19|Black Beatles|Rae Sremmurd Featuring Gucci Mane
+2017|20|Starboy|The Weeknd Featuring Daft Punk
+2017|21|Location|Khalid
+2017|22|Attention|Charlie Puth
+2017|23|There's Nothing Holdin' Me Back|Shawn Mendes
+2017|24|Bodak Yellow (Money Moves)|Cardi B
+2017|25|Redbone|Childish Gambino
+2017|26|I Don't Wanna Live Forever (Fifty Shades Darker)|Zayn / Taylor Swift
+2017|27|It Ain't Me|Kygo x Selena Gomez
+2017|28|iSpy|KYLE Featuring Lil Yachty
+2017|29|Issues|Julia Michaels
+2017|30|Scars To Your Beautiful|Alessia Cara
+2017|31|1-800-273-8255|Logic Featuring Alessia Cara & Khalid
+2017|32|Slow Hands|Niall Horan
+2017|33|Love On The Brain|Rihanna
+2017|34|I Feel It Coming|The Weeknd Featuring Daft Punk
+2017|35|Bounce Back|Big Sean
+2017|36|Strip That Down|Liam Payne Featuring Quavo
+2017|37|Fake Love|Drake
+2017|38|Don't Wanna Know|Maroon 5 Featuring Kendrick Lamar
+2017|39|Look What You Made Me Do|Taylor Swift
+2017|40|Castle On The Hill|Ed Sheeran
+2017|41|Bad Things|Machine Gun Kelly x Camila Cabello
+2017|42|Paris|The Chainsmokers
+2017|43|Side To Side|Ariana Grande Featuring Nicki Minaj
+2017|44|Rockabye|Clean Bandit Featuring Sean Paul & Anne-Marie
+2017|45|Feel It Still|Portugal. The Man
+2017|46|Let Me Love You|DJ Snake Featuring Justin Bieber
+2017|47|Sorry Not Sorry|Demi Lovato
+2017|48|Bank Account|21 Savage
+2017|49|Can't Stop The Feeling!|Justin Timberlake
+2017|50|Mi Gente|J Balvin & Willy William Featuring Beyonce
+2017|51|Thunder|Imagine Dragons
+2017|52|T-Shirt|Migos
+2017|53|Rake It Up|Yo Gotti Featuring Nicki Minaj
+2017|54|Mercy|Shawn Mendes
+2017|55|Tunnel Vision|Kodak Black
+2017|56|Rockstar|Post Malone Featuring 21 Savage
+2017|57|In Case You Didn't Know|Brett Young
+2017|58|Heathens|Twenty One Pilots
+2017|59|Now Or Never|Halsey
+2017|60|Caroline|Amine
+2017|61|Rolex|Ayo & Teo
+2017|62|DNA.|Kendrick Lamar
+2017|63|Juju On That Beat (TZ Anthem)|Zay Hilfigerrr & Zayion McCall
+2017|64|Swang|Rae Sremmurd
+2017|65|Passionfruit|Drake
+2017|66|Loyalty.|Kendrick Lamar Featuring Rihanna
+2017|67|Praying|Kesha
+2017|68|Goosebumps|Travis Scott
+2017|69|Cold|Maroon 5 Featuring Future
+2017|70|Broccoli|D.R.A.M. Featuring Lil Yachty
+2017|71|Slide|Calvin Harris Featuring Frank Ocean & Migos
+2017|72|What Ifs|Kane Brown Featuring Lauren Alaina
+2017|73|Chained To The Rhythm|Katy Perry Featuring Skip Marley
+2017|74|Feels|Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean
+2017|75|All Time Low|Jon Bellion
+2017|76|Hurricane|Luke Combs
+2017|77|Too Good At Goodbyes|Sam Smith
+2017|78|Young Dumb & Broke|Khalid
+2017|79|Magnolia|Playboi Carti
+2017|80|Love Galore|SZA Featuring Travis Scott
+2017|81|Drowning|A Boogie Wit da Hoodie Featuring Kodak Black
+2017|82|Starving|Hailee Steinfeld & Grey Featuring Zedd
+2017|83|Both|Gucci Mane Featuring Drake
+2017|84|What About Us|P!nk
+2017|85|Swalla|Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign
+2017|86|Slippery|Migos Featuring Gucci Mane
+2017|87|Sign Of The Times|Harry Styles
+2017|88|Water Under The Bridge|Adele
+2017|89|Malibu|Miley Cyrus
+2017|90|Down|Marian Hill
+2017|91|No Promises|Cheat Codes Featuring Demi Lovato
+2017|92|Treat You Better|Shawn Mendes
+2017|93|I Get The Bag|Gucci Mane Featuring Migos
+2017|94|Small Town Boy|Dustin Lynch
+2017|95|Everyday We Lit|YFN Lucci Featuring PnB Rock
+2017|96|Havana|Camila Cabello Featuring Young Thug
+2017|97|What Lovers Do|Maroon 5 Featuring SZA
+2017|98|Do Re Mi|blackbear
+2017|99|Look At Me!|XXXTENTACION
+2017|100|The Fighter|Keith Urban Featuring Carrie Underwood
+2018|1|God's Plan|Drake
+2018|2|Perfect|Ed Sheeran
+2018|3|Meant To Be|Bebe Rexha & Florida Georgia Line
+2018|4|Havana|Camila Cabello Featuring Young Thug
+2018|5|Rockstar|Post Malone Featuring 21 Savage
+2018|6|Psycho|Post Malone Featuring Ty Dolla $ign
+2018|7|I Like It|Cardi B, Bad Bunny & J Balvin
+2018|8|The Middle|Zedd, Maren Morris & Grey
+2018|9|In My Feelings|Drake
+2018|10|Girls Like You|Maroon 5 Featuring Cardi B
+2018|11|Nice For What|Drake
+2018|12|Lucid Dreams|Juice WRLD
+2018|13|Better Now|Post Malone
+2018|14|Finesse|Bruno Mars & Cardi B
+2018|15|Boo'd Up|Ella Mai
+2018|16|New Rules|Dua Lipa
+2018|17|Sad!|XXXTENTACION
+2018|18|Never Be The Same|Camila Cabello
+2018|19|Love Lies|Khalid & Normani
+2018|20|No Tears Left To Cry|Ariana Grande
+2018|21|Mine|Bazzi
+2018|22|Thunder|Imagine Dragons
+2018|23|Look Alive|BlocBoy JB Featuring Drake
+2018|24|Delicate|Taylor Swift
+2018|25|Yes Indeed|Lil Baby & Drake
+2018|26|Friends|Marshmello & Anne-Marie
+2018|27|Bad At Love|Halsey
+2018|28|Taste|Tyga Featuring Offset
+2018|29|Let You Down|NF
+2018|30|No Limit|G-Eazy Featuring A$AP Rocky & Cardi B
+2018|31|FEFE|6ix9ine Featuring Nicki Minaj & Murda Beatz
+2018|32|Tequila|Dan + Shay
+2018|33|Feel It Still|Portugal. The Man
+2018|34|MotorSport|Migos, Nicki Minaj & Cardi B
+2018|35|I Like Me Better|Lauv
+2018|36|Youngblood|5 Seconds Of Summer
+2018|37|Whatever It Takes|Imagine Dragons
+2018|38|Ric Flair Drip|Offset & Metro Boomin
+2018|39|I Fall Apart|Post Malone
+2018|40|Pray For Me|The Weeknd & Kendrick Lamar
+2018|41|Back To You|Selena Gomez
+2018|42|Sicko Mode|Travis Scott
+2018|43|Walk It Talk It|Migos Featuring Drake
+2018|44|Gucci Gang|Lil Pump
+2018|45|Him & I|G-Eazy & Halsey
+2018|46|In My Blood|Shawn Mendes
+2018|47|All The Stars|Kendrick Lamar & SZA
+2018|48|Stir Fry|Migos
+2018|49|Too Good At Goodbyes|Sam Smith
+2018|50|Love.|Kendrick Lamar Featuring Zacari
+2018|51|This Is America|Childish Gambino
+2018|52|Nonstop|Drake
+2018|53|Heaven|Kane Brown
+2018|54|Bodak Yellow (Money Moves)|Cardi B
+2018|55|Freaky Friday|Lil Dicky Featuring Chris Brown
+2018|56|Gummo|6ix9ine
+2018|57|Plug Walk|Rich The Kid
+2018|58|Wait|Maroon 5
+2018|59|Be Careful|Cardi B
+2018|60|Wolves|Selena Gomez X Marshmello
+2018|61|Bartier Cardi|Cardi B Featuring 21 Savage
+2018|62|God Is A Woman|Ariana Grande
+2018|63|Big Bank|YG Featuring 2 Chainz, Big Sean & Nicki Minaj
+2018|64|Sorry Not Sorry|Demi Lovato
+2018|65|How Long|Charlie Puth
+2018|66|Lights Down Low|MAX Featuring gnash
+2018|67|Young Dumb & Broke|Khalid
+2018|68|One Kiss|Calvin Harris & Dua Lipa
+2018|69|Natural|Imagine Dragons
+2018|70|You Make It Easy|Jason Aldean
+2018|71|Shape Of You|Ed Sheeran
+2018|72|I Get The Bag|Gucci Mane Featuring Migos
+2018|73|No Brainer|DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo
+2018|74|Plain Jane|A$AP Ferg Featuring Nicki Minaj
+2018|75|Sky Walker|Miguel Featuring Travis Scott
+2018|76|Marry Me|Thomas Rhett
+2018|77|Eastside|benny blanco, Halsey & Khalid
+2018|78|Call Out My Name|The Weeknd
+2018|79|King's Dead|Jay Rock, Kendrick Lamar, Future & James Blake
+2018|80|Happier|Marshmello & Bastille
+2018|81|Te Bote|Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny
+2018|82|Simple|Florida Georgia Line
+2018|83|Lemon|N*E*R*D & Rihanna
+2018|84|1-800-273-8255|Logic Featuring Alessia Cara & Khalid
+2018|85|Say Something|Justin Timberlake Featuring Chris Stapleton
+2018|86|I'm Upset|Drake
+2018|87|Get Along|Kenny Chesney
+2018|88|Moonlight|XXXTENTACION
+2018|89|What Lovers Do|Maroon 5 Featuring SZA
+2018|90|X|Nicky Jam x J Balvin
+2018|91|Outside Today|YoungBoy Never Broke Again
+2018|92|Trip|Ella Mai
+2018|93|Dura|Daddy Yankee
+2018|94|Changes|XXXTENTACION
+2018|95|Mercy|Brett Young
+2018|96|One Number Away|Luke Combs
+2018|97|Powerglide|Rae Sremmurd & Juicy J
+2018|98|IDGAF|Dua Lipa
+2018|99|Mi Gente|J Balvin & Willy William Featuring Beyonce
+2018|100|Believer|Imagine Dragons
+2019|1|Old Town Road|Lil Nas X Featuring Billy Ray Cyrus
+2019|2|Sunflower (Spider-Man: Into The Spider-Verse)|Post Malone & Swae Lee
+2019|3|Without Me|Halsey
+2019|4|Bad Guy|Billie Eilish
+2019|5|Wow.|Post Malone
+2019|6|Happier|Marshmello & Bastille
+2019|7|7 Rings|Ariana Grande
+2019|8|Talk|Khalid
+2019|9|Sicko Mode|Travis Scott
+2019|10|Sucker|Jonas Brothers
+2019|11|High Hopes|Panic! At The Disco
+2019|12|Thank U, Next|Ariana Grande
+2019|13|Truth Hurts|Lizzo
+2019|14|Dancing With A Stranger|Sam Smith & Normani
+2019|15|Senorita|Shawn Mendes & Camila Cabello
+2019|16|I Don't Care|Ed Sheeran & Justin Bieber
+2019|17|Eastside|benny blanco, Halsey & Khalid
+2019|18|Going Bad|Meek Mill Featuring Drake
+2019|19|Shallow|Lady Gaga & Bradley Cooper
+2019|20|Better|Khalid
+2019|21|No Guidance|Chris Brown Featuring Drake
+2019|22|Girls Like You|Maroon 5 Featuring Cardi B
+2019|23|Sweet But Psycho|Ava Max
+2019|24|Suge|DaBaby
+2019|25|Middle Child|J. Cole
+2019|26|Drip Too Hard|Lil Baby & Gunna
+2019|27|Someone You Loved|Lewis Capaldi
+2019|28|Ran$om|Lil Tecca
+2019|29|If I Can't Have You|Shawn Mendes
+2019|30|Goodbyes|Post Malone Featuring Young Thug
+2019|31|ZEZE|Kodak Black Featuring Travis Scott & Offset
+2019|32|Better Now|Post Malone
+2019|33|Youngblood|5 Seconds Of Summer
+2019|34|Money In The Grave|Drake Featuring Rick Ross
+2019|35|Speechless|Dan + Shay
+2019|36|Break Up With Your Girlfriend, I'm Bored|Ariana Grande
+2019|37|Please Me|Cardi B & Bruno Mars
+2019|38|Money|Cardi B
+2019|39|You Need To Calm Down|Taylor Swift
+2019|40|Panini|Lil Nas X
+2019|41|Look Back At It|A Boogie Wit da Hoodie
+2019|42|A Lot|21 Savage
+2019|43|ME!|Taylor Swift Featuring Brendon Urie
+2019|44|MIA|Bad Bunny Featuring Drake
+2019|45|Pop Out|Polo G Featuring Lil Tjay
+2019|46|Beautiful Crazy|Luke Combs
+2019|47|Thotiana|Blueface
+2019|48|Lucid Dreams|Juice WRLD
+2019|49|Mo Bamba|Sheck Wes
+2019|50|Beautiful People|Ed Sheeran Featuring Khalid
+2019|51|Wake Up In The Sky|Gucci Mane X Bruno Mars X Kodak Black
+2019|52|Whiskey Glasses|Morgan Wallen
+2019|53|God's Country|Blake Shelton
+2019|54|Be Alright|Dean Lewis
+2019|55|Pure Water|Mustard & Migos
+2019|56|The Git Up|Blanco Brown
+2019|57|Taki Taki|DJ Snake Featuring Selena Gomez, Ozuna & Cardi B
+2019|58|Close To Me|Ellie Goulding X Diplo Featuring Swae Lee
+2019|59|Envy Me|Calboy
+2019|60|You Say|Lauren Daigle
+2019|61|Hey Look Ma, I Made It|Panic! At The Disco
+2019|62|Circles|Post Malone
+2019|63|Beer Never Broke My Heart|Luke Combs
+2019|64|The London|Young Thug, J. Cole & Travis Scott
+2019|65|Con Calma|Daddy Yankee & Katy Perry Featuring Snow
+2019|66|Murder On My Mind|YNW Melly
+2019|67|When The Party's Over|Billie Eilish
+2019|68|Act Up|City Girls
+2019|69|I Like It|Cardi B, Bad Bunny & J Balvin
+2019|70|Trampoline|SHAED
+2019|71|Leave Me Alone|Flipp Dinero
+2019|72|Breathin|Ariana Grande
+2019|73|Bury A Friend|Billie Eilish
+2019|74|Close Friends|Lil Baby
+2019|75|Baby Shark|Pinkfong
+2019|76|My Type|Saweetie
+2019|77|Worth It|YK Osiris
+2019|78|Only Human|Jonas Brothers
+2019|79|Knockin' Boots|Luke Bryan
+2019|80|Trip|Ella Mai
+2019|81|Rumor|Lee Brice
+2019|82|Swervin|A Boogie Wit da Hoodie Featuring 6ix9ine
+2019|83|How Do You Sleep?|Sam Smith
+2019|84|Baby|Lil Baby & DaBaby
+2019|85|Look What God Gave Her|Thomas Rhett
+2019|86|Good As You|Kane Brown
+2019|87|Clout|Offset Featuring Cardi B
+2019|88|Love Lies|Khalid & Normani
+2019|89|One Thing Right|Marshmello & Kane Brown
+2019|90|Cash Shit|Megan Thee Stallion Featuring DaBaby
+2019|91|Tequila|Dan + Shay
+2019|92|Shotta Flow|NLE Choppa
+2019|93|Hot Girl Summer|Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign
+2019|94|Talk You Out Of It|Florida Georgia Line
+2019|95|Beautiful|Bazzi Featuring Camila Cabello
+2019|96|Eyes On You|Chase Rice
+2019|97|All To Myself|Dan + Shay
+2019|98|Boyfriend|Ariana Grande & Social House
+2019|99|Walk Me Home|P!nk
+2019|100|Robbery|Juice WRLD
+2020|1|Blinding Lights|The Weeknd
+2020|2|Circles|Post Malone
+2020|3|The Box|Roddy Ricch
+2020|4|Don't Start Now|Dua Lipa
+2020|5|Rockstar|DaBaby Featuring Roddy Ricch
+2020|6|Adore You|Harry Styles
+2020|7|Life Is Good|Future Featuring Drake
+2020|8|Memories|Maroon 5
+2020|9|The Bones|Maren Morris
+2020|10|Someone You Loved|Lewis Capaldi
+2020|11|Say So|Doja Cat
+2020|12|I Hope|Gabby Barrett Featuring Charlie Puth
+2020|13|Whats Poppin|Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne
+2020|14|Dance Monkey|Tones And I
+2020|15|Savage|Megan Thee Stallion Featuring Beyonce
+2020|16|Roxanne|Arizona Zervas
+2020|17|Intentions|Justin Bieber Featuring Quavo
+2020|18|Everything I Wanted|Billie Eilish
+2020|19|Roses|SAINt JHN
+2020|20|Watermelon Sugar|Harry Styles
+2020|21|Before You Go|Lewis Capaldi
+2020|22|Falling|Trevor Daniel
+2020|23|10,000 Hours|Dan + Shay & Justin Bieber
+2020|24|WAP|Cardi B Featuring Megan Thee Stallion
+2020|25|Ballin'|Mustard & Roddy Ricch
+2020|26|Hot Girl Bummer|blackbear
+2020|27|Blueberry Faygo|Lil Mosey
+2020|28|Heartless|The Weeknd
+2020|29|BOP|DaBaby
+2020|30|Lose You To Love Me|Selena Gomez
+2020|31|Good As Hell|Lizzo
+2020|32|Toosie Slide|Drake
+2020|33|Break My Heart|Dua Lipa
+2020|34|Chasin' You|Morgan Wallen
+2020|35|Savage Love (Laxed - Siren Beat)|Jawsh 685 x Jason Derulo
+2020|36|No Guidance|Chris Brown Featuring Drake
+2020|37|My Oh My|Camila Cabello Featuring DaBaby
+2020|38|Dynamite|BTS
+2020|39|Go Crazy|Chris Brown & Young Thug
+2020|40|High Fashion|Roddy Ricch Featuring Mustard
+2020|41|Laugh Now Cry Later|Drake Featuring Lil Durk
+2020|42|Woah|Lil Baby
+2020|43|Death Bed|Powfu Featuring beabadoobee
+2020|44|Senorita|Shawn Mendes & Camila Cabello
+2020|45|HIGHEST IN THE ROOM|Travis Scott
+2020|46|Bad Guy|Billie Eilish
+2020|47|Mood|24kGoldn Featuring iann dior
+2020|48|Rain On Me|Lady Gaga & Ariana Grande
+2020|49|For The Night|Pop Smoke Featuring Lil Baby & DaBaby
+2020|50|RITMO (Bad Boys For Life)|Black Eyed Peas X J Balvin
+2020|51|Heart On Ice|Rod Wave
+2020|52|Nobody But You|Blake Shelton Duet With Gwen Stefani
+2020|53|Trampoline|SHAED
+2020|54|Come & Go|Juice WRLD x Marshmello
+2020|55|Truth Hurts|Lizzo
+2020|56|If The World Was Ending|JP Saxe Featuring Julia Michaels
+2020|57|We Paid|Lil Baby & 42 Dugg
+2020|58|Yummy|Justin Bieber
+2020|59|One Man Band|Old Dominion
+2020|60|Got What I Got|Jason Aldean
+2020|61|Sunday Best|Surfaces
+2020|62|Godzilla|Eminem Featuring Juice WRLD
+2020|63|Bandit|Juice WRLD & YoungBoy Never Broke Again
+2020|64|Party Girl|StaySolidRocky
+2020|65|Die From A Broken Heart|Maddie & Tae
+2020|66|Popstar|DJ Khaled Featuring Drake
+2020|67|All I Want For Christmas Is You|Mariah Carey
+2020|68|One Of Them Girls|Lee Brice
+2020|69|Hard To Forget|Sam Hunt
+2020|70|One Margarita|Luke Bryan
+2020|71|Panini|Lil Nas X
+2020|72|Hot|Young Thug Featuring Gunna
+2020|73|I Hope You're Happy Now|Carly Pearce & Lee Brice
+2020|74|Emotionally Scarred|Lil Baby
+2020|75|Suicidal|YNW Melly & Juice WRLD
+2020|76|The Bigger Picture|Lil Baby
+2020|77|Only Human|Jonas Brothers
+2020|78|The Woo|Pop Smoke Featuring 50 Cent & Roddy Ricch
+2020|79|Sum 2 Prove|Lil Baby
+2020|80|Stuck With U|Ariana Grande & Justin Bieber
+2020|81|Mood Swings|Pop Smoke Featuring Lil Tjay
+2020|82|You Should Be Sad|Halsey
+2020|83|Dior|Pop Smoke
+2020|84|Supalonely|BENEE Featuring Gus Dapperton
+2020|85|Even Though I'm Leaving|Luke Combs
+2020|86|The Scotts|THE SCOTTS, Travis Scott & Kid Cudi
+2020|87|Juicy|Doja Cat & Tyga
+2020|88|Be Like That|Kane Brown With Swae Lee & Khalid
+2020|89|Homesick|Kane Brown
+2020|90|Rags2Riches|Rod Wave Featuring ATR Son Son
+2020|91|Bluebird|Miranda Lambert
+2020|92|Wishing Well|Juice WRLD
+2020|93|Does To Me|Luke Combs Featuring Eric Church
+2020|94|P*$$y Fairy (OTW)|Jhene Aiko
+2020|95|ily|Surf Mesa Featuring Emilee
+2020|96|More Than My Hometown|Morgan Wallen
+2020|97|Lovin' On You|Luke Combs
+2020|98|Said Sum|Moneybagg Yo
+2020|99|Slide|H.E.R. Featuring YG
+2020|100|Walk Em Down|NLE Choppa Featuring Roddy Ricch
+2021|1|Levitating|Dua Lipa
+2021|2|Save Your Tears|The Weeknd & Ariana Grande
+2021|3|Blinding Lights|The Weeknd
+2021|4|Mood|24kGoldn Featuring iann dior
+2021|5|Good 4 U|Olivia Rodrigo
+2021|6|Kiss Me More|Doja Cat Featuring SZA
+2021|7|Leave The Door Open|Silk Sonic (Bruno Mars & Anderson .Paak)
+2021|8|Drivers License|Olivia Rodrigo
+2021|9|Montero (Call Me By Your Name)|Lil Nas X
+2021|10|Peaches|Justin Bieber Featuring Daniel Caesar & Giveon
+2021|11|Butter|BTS
+2021|12|Stay|The Kid LAROI & Justin Bieber
+2021|13|Deja Vu|Olivia Rodrigo
+2021|14|Positions|Ariana Grande
+2021|15|Bad Habits|Ed Sheeran
+2021|16|Heat Waves|Glass Animals
+2021|17|Without You|The Kid LAROI
+2021|18|Forever After All|Luke Combs
+2021|19|Go Crazy|Chris Brown & Young Thug
+2021|20|Astronaut In The Ocean|Masked Wolf
+2021|21|34+35|Ariana Grande Feat. Doja Cat & Megan Thee Stallion
+2021|22|What You Know Bout Love|Pop Smoke
+2021|23|My Ex's Best Friend|Machine Gun Kelly X blackbear
+2021|24|Industry Baby|Lil Nas X & Jack Harlow
+2021|25|Therefore I Am|Billie Eilish
+2021|26|Up|Cardi B
+2021|27|Fancy Like|Walker Hayes
+2021|28|Dakiti|Bad Bunny & Jhay Cortez
+2021|29|Best Friend|Saweetie Featuring Doja Cat
+2021|30|Rapstar|Polo G
+2021|31|Heartbreak Anniversary|Giveon
+2021|32|For The Night|Pop Smoke Featuring Lil Baby & DaBaby
+2021|33|Calling My Phone|Lil Tjay Featuring 6LACK
+2021|34|Beautiful Mistakes|Maroon 5 Featuring Megan Thee Stallion
+2021|35|Holy|Justin Bieber Featuring Chance The Rapper
+2021|36|On Me|Lil Baby
+2021|37|You Broke Me First.|Tate McRae
+2021|38|Traitor|Olivia Rodrigo
+2021|39|Back In Blood|Pooh Shiesty Featuring Lil Durk
+2021|40|I Hope|Gabby Barrett Featuring Charlie Puth
+2021|41|Dynamite|BTS
+2021|42|Wockesha|Moneybagg Yo
+2021|43|You Right|Doja Cat & The Weeknd
+2021|44|Beat Box|SpotemGottem Featuring Pooh Shiesty Or DaBaby
+2021|45|Laugh Now Cry Later|Drake Featuring Lil Durk
+2021|46|Need To Know|Doja Cat
+2021|47|Wants And Needs|Drake Featuring Lil Baby
+2021|48|Way 2 Sexy|Drake Featuring Future & Young Thug
+2021|49|Telepatia|Kali Uchis
+2021|50|Whoopty|CJ
+2021|51|Lemonade|Internet Money & Gunna Featuring Don Toliver & NAV
+2021|52|Good Days|SZA
+2021|53|Starting Over|Chris Stapleton
+2021|54|Body|Megan Thee Stallion
+2021|55|Willow|Taylor Swift
+2021|56|Bang!|AJR
+2021|57|Better Together|Luke Combs
+2021|58|You're Mines Still|Yung Bleu Featuring Drake
+2021|59|Every Chance I Get|DJ Khaled Featuring Lil Baby & Lil Durk
+2021|60|Essence|Wizkid Featuring Justin Bieber & Tems
+2021|61|Chasing After You|Ryan Hurd With Maren Morris
+2021|62|The Good Ones|Gabby Barrett
+2021|63|Leave Before You Love Me|Marshmello X Jonas Brothers
+2021|64|Glad You Exist|Dan + Shay
+2021|65|Lonely|Justin Bieber & benny blanco
+2021|66|Beggin'|Maneskin
+2021|67|Streets|Doja Cat
+2021|68|What's Next|Drake
+2021|69|Famous Friends|Chris Young + Kane Brown
+2021|70|Lil Bit|Nelly & Florida Georgia Line
+2021|71|Thot Shit|Megan Thee Stallion
+2021|72|Late At Night|Roddy Ricch
+2021|73|Kings & Queens|Ava Max
+2021|74|Anyone|Justin Bieber
+2021|75|Track Star|Mooski
+2021|76|Time Today|Moneybagg Yo
+2021|77|Cry Baby|Megan Thee Stallion Featuring DaBaby
+2021|78|All I Want For Christmas Is You|Mariah Carey
+2021|79|No More Parties|Coi Leray Featuring Lil Durk
+2021|80|What's Your Country Song|Thomas Rhett
+2021|81|One Too Many|Keith Urban Duet With P!nk
+2021|82|Arcade|Duncan Laurence
+2021|83|Yonaguni|Bad Bunny
+2021|84|Good Time|Niko Moon
+2021|85|If I Didn't Love You|Jason Aldean & Carrie Underwood
+2021|86|Knife Talk|Drake Featuring 21 Savage & Project Pat
+2021|87|pov|Ariana Grande
+2021|88|Just The Way|Parmalee x Blanco Brown
+2021|89|Take My Breath|The Weeknd
+2021|90|We're Good|Dua Lipa
+2021|91|Hell Of A View|Eric Church
+2021|92|Rockin' Around The Christmas Tree|Brenda Lee
+2021|93|Put Your Records On|Ritt Momney
+2021|94|Happier Than Ever|Billie Eilish
+2021|95|Single Saturday Night|Cole Swindell
+2021|96|Things A Man Oughta Know|Lainey Wilson
+2021|97|Throat Baby (Go Baby)|BRS Kash
+2021|98|Tombstone|Rod Wave
+2021|99|Drinkin' Beer. Talkin' God. Amen.|Chase Rice Featuring Florida Georgia Line
+2021|100|Todo de Ti|Rauw Alejandro
+2022|1|Heat Waves|Glass Animals
+2022|2|As It Was|Harry Styles
+2022|3|Stay|The Kid LAROI & Justin Bieber
+2022|4|Easy On Me|Adele
+2022|5|Shivers|Ed Sheeran
+2022|6|First Class|Jack Harlow
+2022|7|Big Energy|Latto
+2022|8|Ghost|Justin Bieber
+2022|9|Super Gremlin|Kodak Black
+2022|10|Cold Heart (PNAU Remix)|Elton John & Dua Lipa
+2022|11|Wait For U|Future Featuring Drake & Tems
+2022|12|About Damn Time|Lizzo
+2022|13|Bad Habits|Ed Sheeran
+2022|14|Thats What I Want|Lil Nas X
+2022|15|Enemy|Imagine Dragons X JID
+2022|16|Industry Baby|Lil Nas X & Jack Harlow
+2022|17|abcdefu|GAYLE
+2022|18|Need To Know|Doja Cat
+2022|19|Wasted On You|Morgan Wallen
+2022|20|Me Porto Bonito|Bad Bunny & Chencho Corleone
+2022|21|Woman|Doja Cat
+2022|22|Titi Me Pregunto|Bad Bunny
+2022|23|Running Up That Hill (A Deal With God)|Kate Bush
+2022|24|We Don't Talk About Bruno|Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast
+2022|25|Late Night Talking|Harry Styles
+2022|26|I Like You (A Happier Song)|Post Malone Featuring Doja Cat
+2022|27|You Proof|Morgan Wallen
+2022|28|Bad Habit|Steve Lacy
+2022|29|Sunroof|Nicky Youre & dazy
+2022|30|One Right Now|Post Malone & The Weeknd
+2022|31|Good 4 U|Olivia Rodrigo
+2022|32|Numb Little Bug|Em Beihold
+2022|33|Jimmy Cooks|Drake Featuring 21 Savage
+2022|34|'Til You Can't|Cody Johnson
+2022|35|Fancy Like|Walker Hayes
+2022|36|The Kind Of Love We Make|Luke Combs
+2022|37|I Ain't Worried|OneRepublic
+2022|38|Break My Soul|Beyonce
+2022|39|Something In The Orange|Zach Bryan
+2022|40|Save Your Tears|The Weeknd & Ariana Grande
+2022|41|Smokin Out The Window|Silk Sonic (Bruno Mars & Anderson .Paak)
+2022|42|Levitating|Dua Lipa
+2022|43|In A Minute|Lil Baby
+2022|44|Moscow Mule|Bad Bunny
+2022|45|You Right|Doja Cat & The Weeknd
+2022|46|She Had Me At Heads Carolina|Cole Swindell
+2022|47|Vegas|Doja Cat
+2022|48|Pushin P|Gunna & Future Featuring Young Thug
+2022|49|Buy Dirt|Jordan Davis Featuring Luke Bryan
+2022|50|I Hate U|SZA
+2022|51|Boyfriend|Dove Cameron
+2022|52|Glimpse Of Us|Joji
+2022|53|Surface Pressure|Jessica Darrow
+2022|54|Fall In Love|Bailey Zimmerman
+2022|55|Love Nwantiti (Ah Ah Ah)|CKay
+2022|56|Super Freaky Girl|Nicki Minaj
+2022|57|Hrs And Hrs|Muni Long
+2022|58|Sand In My Boots|Morgan Wallen
+2022|59|MAMIII|Becky G X Karol G
+2022|60|Knife Talk|Drake Featuring 21 Savage & Project Pat
+2022|61|AA|Walker Hayes
+2022|62|Sweetest Pie|Megan Thee Stallion & Dua Lipa
+2022|63|Provenza|Karol G
+2022|64|Essence|Wizkid Featuring Justin Bieber & Tems
+2022|65|All I Want For Christmas Is You|Mariah Carey
+2022|66|Bam Bam|Camila Cabello Featuring Ed Sheeran
+2022|67|5 Foot 9|Tyler Hubbard
+2022|68|Get Into It (Yuh)|Doja Cat
+2022|69|Efecto|Bad Bunny
+2022|70|Rock And A Hard Place|Bailey Zimmerman
+2022|71|Doin' This|Luke Combs
+2022|72|Oh My God|Adele
+2022|73|Better Days|NEIKED X Mae Muller X Polo G
+2022|74|Meet Me At Our Spot|THE ANXIETY: WILLOW & Tyler Cole
+2022|75|Fingers Crossed|Lauren Spencer Smith
+2022|76|All Too Well (Taylor's Version)|Taylor Swift
+2022|77|Party|Bad Bunny & Rauw Alejandro
+2022|78|Despues de La Playa|Bad Bunny
+2022|79|You Should Probably Leave|Chris Stapleton
+2022|80|Rockin' Around The Christmas Tree|Brenda Lee
+2022|81|Broadway Girls|Lil Durk Featuring Morgan Wallen
+2022|82|Take My Name|Parmalee
+2022|83|What Happened To Virgil|Lil Durk Featuring Gunna
+2022|84|Puffin On Zootiez|Future
+2022|85|Like I Love Country Music|Kane Brown
+2022|86|Jingle Bell Rock|Bobby Helms
+2022|87|Ojitos Lindos|Bad Bunny & Bomba Estereo
+2022|88|Trouble With A Heartbreak|Jason Aldean
+2022|89|A Holly Jolly Christmas|Burl Ives
+2022|90|Kiss Me More|Doja Cat Featuring SZA
+2022|91|She Likes It|Russell Dickerson & Jake Scott
+2022|92|Never Say Never|Cole Swindell / Lainey Wilson
+2022|93|Damn Strait|Scotty McCreery
+2022|94|She's All I Wanna Be|Tate McRae
+2022|95|Last Night Lonely|Jon Pardi
+2022|96|Flower Shops|ERNEST Featuring Morgan Wallen
+2022|97|To The Moon!|JNR CHOI & Sam Tompkins
+2022|98|Unholy|Sam Smith & Kim Petras
+2022|99|One Mississippi|Kane Brown
+2022|100|Circles Around This Town|Maren Morris
+2023|1|Last Night|Morgan Wallen
+2023|2|Flowers|Miley Cyrus
+2023|3|Kill Bill|SZA
+2023|4|Anti-Hero|Taylor Swift
+2023|5|Creepin'|Metro Boomin, The Weeknd & 21 Savage
+2023|6|Calm Down|Rema & Selena Gomez
+2023|7|Die For You|The Weeknd & Ariana Grande
+2023|8|Fast Car|Luke Combs
+2023|9|Snooze|SZA
+2023|10|I'm Good (Blue)|David Guetta & Bebe Rexha
+2023|11|Unholy|Sam Smith & Kim Petras
+2023|12|You Proof|Morgan Wallen
+2023|13|Something In The Orange|Zach Bryan
+2023|14|Rich Flex|Drake & 21 Savage
+2023|15|As It Was|Harry Styles
+2023|16|Rock And A Hard Place|Bailey Zimmerman
+2023|17|Under The Influence|Chris Brown
+2023|18|Cruel Summer|Taylor Swift
+2023|19|Thinkin' Bout Me|Morgan Wallen
+2023|20|Boy's A Liar, Pt. 2|PinkPantheress & Ice Spice
+2023|21|Favorite Song|Toosii
+2023|22|Thought You Should Know|Morgan Wallen
+2023|23|Thank God|Kane Brown With Katelyn Brown
+2023|24|Sure Thing|Miguel
+2023|25|All My Life|Lil Durk Featuring J. Cole
+2023|26|Ella Baila Sola|Eslabon Armado X Peso Pluma
+2023|27|Karma|Taylor Swift Featuring Ice Spice
+2023|28|Just Wanna Rock|Lil Uzi Vert
+2023|29|Cuff It|Beyonce
+2023|30|Vampire|Olivia Rodrigo
+2023|31|Fukumean|Gunna
+2023|32|Lavender Haze|Taylor Swift
+2023|33|Players|Coi Leray
+2023|34|Need A Favor|Jelly Roll
+2023|35|Dance The Night|Dua Lipa
+2023|36|Love You Anyway|Luke Combs
+2023|37|One Thing At A Time|Morgan Wallen
+2023|38|Superhero (Heroes & Villains)|Metro Boomin, Future & Chris Brown
+2023|39|Bad Habit|Steve Lacy
+2023|40|La Bebe|Yng Lvcas x Peso Pluma
+2023|41|Golden Hour|JVKE
+2023|42|Religiously|Bailey Zimmerman
+2023|43|Spin Bout U|Drake & 21 Savage
+2023|44|Cupid|Fifty Fifty
+2023|45|Search & Rescue|Drake
+2023|46|Barbie World|Nicki Minaj & Ice Spice With Aqua
+2023|47|Next Thing You Know|Jordan Davis
+2023|48|Escapism|RAYE Featuring 070 Shake
+2023|49|Un x100to|Grupo Frontera X Bad Bunny
+2023|50|Until I Found You|Stephen Sanchez
+2023|51|Shirt|SZA
+2023|52|Paint The Town Red|Doja Cat
+2023|53|Made You Look|Meghan Trainor
+2023|54|Wait In The Truck|HARDY Featuring Lainey Wilson
+2023|55|All I Want For Christmas Is You|Mariah Carey
+2023|56|Everything I Love|Morgan Wallen
+2023|57|Chemical|Post Malone
+2023|58|Heart Like A Truck|Lainey Wilson
+2023|59|Going, Going, Gone|Luke Combs
+2023|60|Rockin' Around The Christmas Tree|Brenda Lee
+2023|61|Dancin' In The Country|Tyler Hubbard
+2023|62|Daylight|David Kushner
+2023|63|Lift Me Up|Rihanna
+2023|64|Eyes Closed|Ed Sheeran
+2023|65|TQG|Karol G x Shakira
+2023|66|Try That In A Small Town|Jason Aldean
+2023|67|Tennessee Orange|Megan Moroney
+2023|68|Jingle Bell Rock|Bobby Helms
+2023|69|Princess Diana|Ice Spice & Nicki Minaj
+2023|70|Tomorrow 2|GloRilla & Cardi B
+2023|71|A Holly Jolly Christmas|Burl Ives
+2023|72|Where She Goes|Bad Bunny
+2023|73|Bebe Dame|Fuerza Regida X Grupo Frontera
+2023|74|I Remember Everything|Zach Bryan Featuring Kacey Musgraves
+2023|75|I Like You (A Happier Song)|Post Malone Featuring Doja Cat
+2023|76|What It Is (Block Boy)|Doechii Featuring Kodak Black
+2023|77|Nobody Gets Me|SZA
+2023|78|Rich Men North Of Richmond|Oliver Anthony Music
+2023|79|Super Freaky Girl|Nicki Minaj
+2023|80|Dial Drunk|Noah Kahan With Post Malone
+2023|81|What Was I Made For?|Billie Eilish
+2023|82|Seven|Jung Kook Featuring Latto
+2023|83|Wait For U|Future Featuring Drake & Tems
+2023|84|Last Christmas|Wham!
+2023|85|Handle On You|Parker McCollum
+2023|86|Por Las Noches|Peso Pluma
+2023|87|Memory Lane|Old Dominion
+2023|88|Area Codes|Kaliii
+2023|89|Bury Me In Georgia|Kane Brown
+2023|90|PRC|Peso Pluma X Natanael Cano
+2023|91|What My World Spins Around|Jordan Davis
+2023|92|Ain't That Some|Morgan Wallen
+2023|93|Wild As Her|Corey Kent
+2023|94|Peaches & Eggplants|Young Nudy Featuring 21 Savage
+2023|95|I Wrote The Book|Morgan Wallen
+2023|96|Bzrp Music Sessions, Vol. 53|Bizarrap & Shakira
+2023|97|Meltdown|Travis Scott Featuring Drake
+2023|98|Put It On Da Floor Again|Latto Featuring Cardi B
+2023|99|Bloody Mary|Lady Gaga
+2023|100|Watermelon Moonshine|Lainey Wilson
